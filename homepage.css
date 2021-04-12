@@ -66,6 +66,8 @@ header nav {
     justify-content: space-between;
     align-items: center;
     letter-spacing: 1px;
+    padding:0px;
+    height:60px;
 }
 header {
     background-image: url(https://cdn.dribbble.com/users/808936/screenshots/3756466/pacman-dribbble.gif);
